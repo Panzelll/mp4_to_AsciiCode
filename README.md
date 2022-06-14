@@ -1,9 +1,9 @@
 # mp4AsciiCode
-Convierte cada fotograma de video en mp4 a archivos de texto en formato con arte ascii.
+Convierte cada fotograma de video en arte ascii.
 
 
 ### Notas sobre esta versión:
-  -Sólo funciona con videos mp4.
+  -Sólo funciona con videos en formato mp4.
   -El video y el coso.py deben estar en la misma carpeta.
   -Por defecto muestra 200 carácteres por linea, por lo que debes quitarle algo de zoom a la ventana CMD y ajustar el tamaño de la ventana para que se vea bien uwu
   -Convierte un solo video por vez en la misma carpeta (habrá que borrar, mover o renombrar las dos carpetas que se crean al convertir un video a arte ascii)
@@ -23,7 +23,9 @@ Convierte cada fotograma de video en mp4 a archivos de texto en formato con arte
   -convierte el video 
   -imprime en consola
 
-
+#### Estado del proyecto
+##### En pausa
+Yo creo que así se va a quedar un buen rato xd
 
 La mayoría del código es una adaptación del código de Tom-Savoie's, créditos:
 https://www.instructables.com/member/Tom-Savoie/
