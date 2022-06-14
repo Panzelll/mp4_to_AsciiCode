@@ -14,7 +14,7 @@ Convierte cada fotograma de video en arte ascii.
 ### Necesita las siguientes cosillas:
 
   + Tener python instalado - https://www.python.org/downloads/
-  + PIL (Image and ImageOps) - lo puedes instalar con "pip install Pillow" o "pip3 install Pillow"
+  + PIL (Image y ImageOps) - lo puedes instalar con "pip install Pillow" o "pip3 install Pillow"
   + cv2 (el poderosísimo OpenCV) - lo puedes instalar con "pip install opencv-python".
 
 
