@@ -19,20 +19,24 @@ Convierte cada fotograma de video en arte ascii.
 
 
 ### Como usar:
-
+- Convertir archivo:
   + Abra el CMD (win+r y escribe cmd)
-  + Ajusta la ventana y quitale zoom (control + scroll)
   + Ejecuta "python coso.py"
-  + (se abrirá un menú que hize en un rato, elige las opciones introduciendo numeros).
-  + Convierte el video 
-  + Imprime en consola
+  + Se abrirá un menú, elige la opción para convertir introduciendo el numero 1.
+  + Te pedirá el nombre del video, escribelo sin el .mp4 y comenzará a generar los archivos.
+  + Esto genera dos carpetas, una llamada 'Image' que tiene los fotogramas del video. y otra llamada 'fotogramAscii' que contiene el equivalente en arte ascii de cada fotograma (guardados como shot.txt).
+- Verlo en la consola:
+  + Antes de imprimir ajusta la ventana y quitale zoom (control + scroll), lo suficiente como para que puedas ver los 200 caracteres en una linea.
+  + Quizá las letras sean demasiado pequeñas para ver pero si la conversión salió bien entonces basta con que pongas el numero 2 y des enter. 
+  + Procederá a imprimirse en bruto en la consola y dará la ilusión de movimiento. (si esto no se ve tan fluido puedes ajustar la velocidad de impresión en la liena 13 del coso.py)
+ 
 
 ---
 ### Estado del proyecto
 
 Yo creo que así se va a quedar un buen rato xd
 
-### aasdf
+### aasdfasdf
 
 La mayoría del código es una adaptación del código de Tom-Savoie's, créditos:
 https://www.instructables.com/member/Tom-Savoie/
