@@ -1,7 +1,7 @@
 # MP4_to_AsciiCode
 
-Convierte cada fotograma de video en arte ascii.
-
+Convierte cada fotograma de video en arte ascii. 
+Y permite impriir en consola de windows (con maña)
 
 ### Notas sobre esta versión:
 
